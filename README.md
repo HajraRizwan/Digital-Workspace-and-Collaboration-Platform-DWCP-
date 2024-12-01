@@ -99,4 +99,4 @@ Comprehensive references are provided for all artifacts and design principles to
 
 --- 
 
-This README serves as a guide to the DWCP project, detailing its scope, objectives, and documentation for seamless navigation and development. Feel free to explore each section for deeper insights into the platform's design and functionality.
+This README serves as a guide to the DWCP project, detailing its scope, objectives, and documentation for seamless navigation and development. Explore each section for deeper insights into the platform's design and functionality.
